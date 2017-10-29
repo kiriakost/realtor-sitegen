@@ -1,1 +1,4 @@
-# realtor-sitegen
+# StaticGen WebSites using HUGO
+
+
+
